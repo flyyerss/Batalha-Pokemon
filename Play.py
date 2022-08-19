@@ -165,6 +165,6 @@ if Monstro.vida <= 0:
     print(f'Você venceu!!! conseguiu matar o {Monstro.nome}!')
 if escolha == '4':
     print(f'Você escolheu sair correndo do {Monstro.nome}!')
-else:
+if Personagem.vida <=0:
     print(f'Você Morreu para o {Monstro.nome} derrota!! :c ')
 print('Fim de jogo')
