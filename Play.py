@@ -5,8 +5,6 @@ from time import sleep
 from random import randint
 os.system("cls")
 
-escolha = ''
-
 # Comandos
 def continuar():
     continuar = input('Aperte qualquer botão para continuar: ')
