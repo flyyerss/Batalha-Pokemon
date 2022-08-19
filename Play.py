@@ -5,8 +5,6 @@ from time import sleep
 from random import randint
 os.system("cls")
 
-#Chamei essa variavel antes para poder usar ne uma def.
-
 escolha = ''
 
 # Comandos
